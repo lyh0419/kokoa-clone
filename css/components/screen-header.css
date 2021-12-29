@@ -27,5 +27,18 @@
   align-items: center;
   position: absolute;
   bottom: 25px;
-  right: -73px;
+  right: -75px;
+}
+
+.nav__point__more {
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  bottom: 25px;
+  right: -125px;
 }
